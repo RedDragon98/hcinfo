@@ -8,8 +8,9 @@ T1
 Tutorial, getting started, no cooling, up to 10 su heating. Goals: Bronze, Steel, Magmatic Alloy
 
 T1 processing diagram
-Materials required: Carbon (as a gas), Iron, Tin, Copper, Bronze, Steel, Aluminium
+Materials required: Carbon (as a gas), Iron, Tin, Copper, Bronze, Steel, Aluminium, Silver
 
+~~~
 Iron - Alloy Smelter --- Steel
         :
       Carbon
@@ -26,6 +27,8 @@ Copper -+                   Heater ----- Heated Furnace
     Alloy Smelter ---------- Bronze ------- Alloy Smelter ------ Magmatic Alloy
         :
 Tin ----+
+~~~
+
 T2
 Getting into the early game, cooling up to -10 su but it is not required in progression, up to 50 su heating. Not much complex tech yet, just a few processing lines. Goals: Golden conductor, Refined electrum, basic insulator
 
